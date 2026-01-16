@@ -1,1 +1,2 @@
 python test project
+uv
